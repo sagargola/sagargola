@@ -1,0 +1,10 @@
+number = [1,2,3,4,5]
+print(type(number))
+number.append(1)
+print(number)
+number.pop()
+print(number)
+number.reverse()
+print(number)
+print(number[2:3])
+print(number)
