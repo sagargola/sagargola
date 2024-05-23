@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Gola</h1>
-<h3 align="center">A passionate frontend developer from India but living in Turku Finland</h3>
+<h3 align="center">A passionate frontend developer from India but living in Helsinki Finland</h3>
 <img align="center" alt="Coding" width="200" height="200" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47iwss9l0u0enhh2hpqxql50zr9vir2pj5w9nrvcrz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargola&label=Profile%20views&color=0e75b6&style=flat" alt="sagargola" /> </p>
